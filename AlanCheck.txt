@@ -1,1 +1,3 @@
-Hello World, this is a test 
+Hello my name is Alan Ramirez and I am a 4th year Electical Engineering student 
+
+This is a test
